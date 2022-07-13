@@ -141,7 +141,7 @@ html {
 #client-section::before {
     content: "";
     position: absolute;
-    background: url('hotel4.jpg');
+    background: url('../hotel4.jpg');
     width: 100%;
     height: 100%;
     z-index: -1;
