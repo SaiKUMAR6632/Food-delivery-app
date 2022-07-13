@@ -176,7 +176,7 @@ html {
     height: 100%;
     z-index: -1;
     opacity: 0.8;
-    background:url('ContactUs2.jpg') no-repeat center;
+    background:url('ContactUs2.jpg') no-repeat center center/cover;
 }
 
 #contact-box {
