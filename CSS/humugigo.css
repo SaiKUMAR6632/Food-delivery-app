@@ -84,7 +84,7 @@ html {
 #home::before {
     content: "";
     position: absolute;
-    background: url('hotel3.jpg') no-repeat center center/cover;
+    background: url('photos\hotel3.jpg') no-repeat center center/cover;
     height: 715px;
     top: 0px;
     left: 0px;
@@ -141,7 +141,7 @@ html {
 #client-section::before {
     content: "";
     position: absolute;
-    background: url('hotel4.jpg');
+    background: url('photos\hotel4.jpg');
     width: 100%;
     height: 100%;
     z-index: -1;
@@ -176,7 +176,7 @@ html {
     height: 100%;
     z-index: -1;
     opacity: 0.8;
-    background: url('ContactUs2.jpg') no-repeat center center/cover;
+    background: url('photos\ContactUs2.jpg') no-repeat center center/cover;
 }
 
 #contact-box {
