@@ -154,7 +154,7 @@ html {
     align-items: center;
 }
 
-.client-item {
+#client-item {
     margin: 34px;
     padding: 50px;
 }
