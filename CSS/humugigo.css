@@ -166,7 +166,7 @@ html {
 /*contact section*/
 #contact {
     position: relative;
-    z-index: -1;
+    z-index: 99;
 }
 
 #contact::before {
